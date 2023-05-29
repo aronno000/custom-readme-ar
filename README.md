@@ -1,10 +1,9 @@
 <!-- ============================================ CART SECTION ========================================================== -->
-# cart
+# CART
   > will be designed with neumorphism css...
+
 - book cart page
-
 - course cart page
-
 
 
 # book cart page
@@ -17,6 +16,7 @@
       > billing name, address, phone number, email address  
       Next Button
 
+
 # course cart page
 
 1. __In left Section__  
@@ -26,5 +26,8 @@
       > billing name, address, phone number, email address  
       Next Button
 
+
 # 1st  Proceed  N.E.X.T  Page
 
+- Total will showing in a page  
+> And the design will be [CartPage](https://1drv.ms/i/s!Aq4FfT9SYylha7-M-FF4GW1-cQU?e=iSKTEi)
