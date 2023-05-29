@@ -1,8 +1,8 @@
 # cart
 
-1. book cart page
+- book cart page
 
-2. course cart page
+- course cart page
 
 
 
