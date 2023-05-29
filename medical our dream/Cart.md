@@ -14,7 +14,7 @@
 
 2. __In right Section__  
       > billing name, address, phone number, email address  
-      Next Button
+      ***Next Button***
 
 
 # course cart page
@@ -24,14 +24,14 @@
 
 2. __In right Section__  
       > billing name, address, phone number, email address  
-      Next Button
+      ***Next Button***
 
 
 # 1st  Proceed  N.E.X.T  Page
 
 - Total will showing in a page  
 > And the design will be [CartPage](https://1drv.ms/i/s!Aq4FfT9SYylha7-M-FF4GW1-cQU?e=iSKTEi)  
-Next Button
+***Next Button***
 
 
 # 2nd  Proceed  N.E.X.T  Page
