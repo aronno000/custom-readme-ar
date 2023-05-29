@@ -10,7 +10,7 @@
 
 ``
 1. In left Section
-     *** selected books with its image, quantity, price for each ***
-     *** A GIFT WRAP PAPER ***
+      selected books with its image, quantity, price for each  
+      A GIFT WRAP PAPER 
 
 ``
