@@ -39,3 +39,6 @@
 __There is 02 options available__  
 > First one is, __SSLCOMMERZE__  
 Second One is, __Custom-Code-for-Bkash-Nagad-Rocket__
+
+# After done with payment:
+> He/ She will redirect in a new page. Where He/She can see his/her purcase info.
