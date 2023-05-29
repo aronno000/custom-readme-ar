@@ -30,9 +30,12 @@
 # 1st  Proceed  N.E.X.T  Page
 
 - Total will showing in a page  
-      > And the design will be [CartPage](https://1drv.ms/i/s!Aq4FfT9SYylha7-M-FF4GW1-cQU?e=iSKTEi)  
-      Next Button
+> And the design will be [CartPage](https://1drv.ms/i/s!Aq4FfT9SYylha7-M-FF4GW1-cQU?e=iSKTEi)  
+Next Button
 
 
 # 2nd  Proceed  N.E.X.T  Page
 
+__There is 02 options available__  
+> First one is, __SSLCOMMERZE__  
+Second One is, __Custom-Code-for-Bkash-Nagad-Rocket__
