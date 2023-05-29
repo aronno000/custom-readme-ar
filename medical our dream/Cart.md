@@ -6,7 +6,7 @@
 - course cart page
 
 
-# book cart page
+# Book Cart Page
 
 1. __In left Section__  
       > selected books with its image, quantity, price for each  
@@ -17,7 +17,7 @@
       ***Next Button***
 
 
-# course cart page
+# Course Cart Page
 
 1. __In left Section__  
       > selected course with its image, teacher, author, price of that
