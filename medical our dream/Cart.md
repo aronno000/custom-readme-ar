@@ -41,4 +41,6 @@ __There is 02 options available__
 Second One is, __Custom-Code-for-Bkash-Nagad-Rocket__
 
 # After done with payment:
-> He/ She will redirect in a new page. Where He/She can see his/her purcase info.
+> He/ She will redirect in a new page. Where He/She can see his/her purcase info.  
+In that page, there will be a option open for copying ***Trax ID*** = ***Date & Time of Payment***  
+And in addition he/she can print his/her purchase info, which purchase he/she did then.
