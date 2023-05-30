@@ -47,4 +47,4 @@ And in addition he/she can print his/her purchase info, which purchase he/she di
 
 ***Then there is a final button to go to dashboard(Home) of his/her account.***
 
-# C.A.R.T....P.A.G.E....***F.I.N.I.S.H.E.D***
+# DESIGN..FOR..CART..PAGE....***F.I.N.I.S.H.E.D***
