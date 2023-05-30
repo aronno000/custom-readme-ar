@@ -11,3 +11,6 @@
   > user will redirect into courseDescription page. In this page, The page will showing this type of page.  
 
   __[Click Here](https://1drv.ms/i/s!Aq4FfT9SYylhbb87Wus9f13a9L8?e=mYgJ0q)__  
+
+# After Clicking [ClickHereToBuy]:
+> user will redirect to _bookCartPage_ if he/she __Click for buying books__ or, will redirect to _courseCartPage_ if he/she __Click for buying course__.
