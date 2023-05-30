@@ -14,7 +14,7 @@
 > Details about this course(getTheCourseName)
 
 - top-right section:
-> There will be 02 sections
-    - Poster of clicked Course
-    - Tutor Details:
+> There will be 02 sections  
+    - Poster of clicked Course  
+    - Tutor Details:  
 > There again
