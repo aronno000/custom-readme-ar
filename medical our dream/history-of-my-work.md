@@ -2,5 +2,5 @@
 
 | Date        | Description | Developed By  |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| 29-05-2023      | Plans making for designing __[cart](Cart.md)__  | AR ARONNO GH  |
+| 30-05-2023   | Plans making for designing __[shopping Page](shoppingPage.md)__          | AR ARONNO GH  |
