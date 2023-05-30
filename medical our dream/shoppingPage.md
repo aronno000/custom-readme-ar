@@ -10,11 +10,10 @@
 # After Clicking a course
   > user will redirect into courseDescription page. In this page, there will be 3 dividers in around.
 
-- top-left section:
+1. top-left section:
 > Details about this course(getTheCourseName)
 
-- top-right section:
-> There will be 02 sections  
+2.  top-right section:
+__There will be 02 sections__
     - Poster of clicked Course  
-    - Tutor Details:  
-> There again
+    - Tutor Details: 
