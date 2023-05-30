@@ -45,6 +45,6 @@ Second One is, __Custom-Code-for-Bkash-Nagad-Rocket__
 In that page, there will be a option open for copying ***Trax ID*** | ***Date & Time of Payment*** | ***His/Her Student ID of M.O.D***   
 And in addition he/she can print his/her purchase info, which purchase he/she did then.
 
-***Then there is a final button to go to dashboard(Home) of his account.***
+***Then there is a final button to go to dashboard(Home) of his/her account.***
 
 # C.A.R.T....P.A.G.E....***F.I.N.I.S.H.E.D***
