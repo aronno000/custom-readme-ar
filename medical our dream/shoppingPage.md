@@ -8,12 +8,6 @@
 
 
 # After Clicking a course
-  > user will redirect into courseDescription page. In this page, there will be 3 dividers in around.
+  > user will redirect into courseDescription page. In this page, The page will showing this type of page.  
 
-1. top-left section:
-> Details about this course(getTheCourseName)
-
-2.  top-right section:
-__There will be 02 sections__
-    - Poster of clicked Course  
-    - Tutor Details: 
+  __[Click Here](https://1drv.ms/i/s!Aq4FfT9SYylhbKnn3kzfuhRx6Ns?e=tmzLHT)__  

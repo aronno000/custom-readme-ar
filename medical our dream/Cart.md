@@ -30,7 +30,7 @@
 # 1st  Proceed  N.E.X.T  Page
 
 - Total will showing in a page  
-> And the design will be [CartPage](https://1drv.ms/i/s!Aq4FfT9SYylha7-M-FF4GW1-cQU?e=iSKTEi)  
+> And the design will be like this css, which you can see by clicking there. __[Click Here](https://1drv.ms/i/s!Aq4FfT9SYylha7-M-FF4GW1-cQU?e=iSKTEi)__  
 ***Next Button***
 
 
