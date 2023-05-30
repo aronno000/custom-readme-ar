@@ -7,5 +7,5 @@
   There will be a search option for searching a course easily.
 
 # After Clicking a course
-  > in this page, there will be 3 dividers in around.
+  > in this page, there will be 3 dividers in around.    
 __ER__
