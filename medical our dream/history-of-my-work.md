@@ -9,5 +9,6 @@
 | 30-05-2023   | Created a pre-contact Page for __[unregistered-User](./contactPage.md)__         | AR ARONNO GH  |
 | 30-05-2023   | Created a pre-contact Page for __[registered-User](./contactPage.md)__          | AR ARONNO GH  |
 | 31-05-2023   | whole day rest. | AR ARONNO GH  |
-| 01-05-2023   | Done with __[registerAsStudent.php-file]__ The registration process is now fully functioned. | AR ARONNO GH  |
+| 01-05-2023   | Done with __[registerAsStudent.php-file]__.  
+The registration process is now fully functioned. | AR ARONNO GH  |
 |   |
