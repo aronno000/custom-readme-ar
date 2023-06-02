@@ -9,9 +9,12 @@
  - a student will be not able to get registered if given password is not equal to given confirm password
 
  - a student will be not able to get registered if he/she don't provide a image!
+
+ - a student must fill up the captcha form correctly!!!
  
  - __a guardian can monitor his/her child by accessing his/her own account...__  
  
 
 
 ***More are in the way. Stay with us...***
+ __IT'S ARONNO GH TO ASSOCIATE YOU...__
