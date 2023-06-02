@@ -1,6 +1,6 @@
 # HISTORY OF THIS PROJECT....
 
-***It's the history of __DEVELOPER AR ARONNO GH__ ***
+It's the history of __DEVELOPER AR ARONNO GH__
 | Date        | Description |
 | :---        |    :----:   |
 | 29-05-2023      | Get the thing in our hands. |
@@ -23,7 +23,7 @@
 
 
 
-***It's the history of __DESIGNER SAYOR__ ***
+It's the history of __DESIGNER SAYOR__
 | Date        | Description |
 | :---        |    :----:   |
 | 02-06-2023      | Enable Dark mode |
