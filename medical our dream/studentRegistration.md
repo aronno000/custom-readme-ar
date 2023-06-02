@@ -10,7 +10,8 @@
 
  - a student will be not able to get registered if he/she don't provide a image!
  
- - __a guardian can monitor his/her child by accessing his/her own account...__
+ - __a guardian can monitor his/her child by accessing his/her own account...__  
+ 
 
 
- ***More are in the way. Stay with us...***
+***More are in the way. Stay with us...***
