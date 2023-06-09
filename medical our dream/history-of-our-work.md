@@ -9,7 +9,6 @@ It's the history of __DEVELOPER AR ARONNO GH__
 | 30-05-2023   | Ready Website for designing, Make a  __[cool looking navBar](https://aronno000.github.io/medical-our-dream-aronno/)__          |
 | 30-05-2023   | Created a pre-contact Page for __[unregistered-User](./contactPage.md)__         |
 | 30-05-2023   | Created a pre-contact Page for __[registered-User](./contactPage.md)__          |
-| 31-05-2023   | whole day rest. |
 | 01-06-2023   | Done with __registerAsStudent.php-file__.  The registration process is not fully functioned yet. |
 | 02-06-2023   | Done with __captcha_for_register_As_Student.php-file__.  The registration process is not fully functioned yet. |
 | 10-06-2023   | Done with __full-login-registration-process-for-both-guardian-and-student.__.  __[The registration process is now fully functioned.](#)__|
