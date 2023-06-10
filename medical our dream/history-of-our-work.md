@@ -1,6 +1,5 @@
 # HISTORY OF THIS PROJECT....
 
-It's the history of __DEVELOPER AR ARONNO GH__
 | Date        | Description |
 | :---        |    :----:   |
 | 29_05_2023      | Get the thing in our hands. |
